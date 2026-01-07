@@ -102,9 +102,6 @@ This project is open source and available under the MIT License.
 - [scikit-learn Documentation](https://scikit-learn.org/)
 - [Breast Cancer Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html)
 
-## 👤 Author
-
-Your Name - [GitHub Profile](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
